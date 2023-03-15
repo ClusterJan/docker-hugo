@@ -1,4 +1,4 @@
-image: klakegg/hugo
+image: mccomput3rfr3ak/hugo
 version: 0.111.3
 
 platforms:
