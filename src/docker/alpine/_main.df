@@ -1,5 +1,0 @@
-IMPORT alpine AS alpine
-
-IMPORT asciidoctor AS asciidoctor
-
-IMPORT pandoc AS pandoc

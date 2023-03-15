@@ -1,3 +1,0 @@
-IMPORT base AS base-debian
-
-IMPORT debian AS debian
